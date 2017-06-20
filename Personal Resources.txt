@@ -3,6 +3,7 @@ http://teamultimate.in/start-here/
 http://null-byte.wonderhowto.com/
 http://www.hackingarticles.in/
 https://www.cybrary.it/
+https://www.computersecuritystudent.com/
 http://breakthesecurity.cysecurity.org/p/hacking-tutorials-for-beginners.html
 http://www.guru99.com/learn-penetration-testing.html
 http://back-track-linux.blogspot.in/2012/11/backtrack-penetration-testing-tutorial.html
