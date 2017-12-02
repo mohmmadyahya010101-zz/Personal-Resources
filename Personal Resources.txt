@@ -127,3 +127,5 @@ http://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack
 http://carnal0wnage.attackresearch.com/
 
 CEH V9 PDF: https://www.mediafire.com/folder/0wjcevofwkxe7/CEH_V9
+Tools Review :http://kitploit.com/
+http://0x00sec.org/
