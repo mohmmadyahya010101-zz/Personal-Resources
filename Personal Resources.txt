@@ -129,3 +129,6 @@ http://carnal0wnage.attackresearch.com/
 CEH V9 PDF: https://www.mediafire.com/folder/0wjcevofwkxe7/CEH_V9
 Tools Review :http://kitploit.com/
 http://0x00sec.org/
+
+For More Resource
+https://github.com/r00tb3/SECURITY-RESOURCES
